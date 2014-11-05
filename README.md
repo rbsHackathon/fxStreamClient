@@ -8,6 +8,7 @@ Here we have example code to hook up to streaming FX rates from RBS via [`pusher
 Clients available right now:
 
 * html/javascript
+* ruby
 
 ### Message format
 
@@ -29,3 +30,12 @@ Clients available right now:
         "expiryDateTime": "2014-11-05T12:18:59.000Z"
       }
     ]
+
+### Ruby Client
+
+This uses Logan Koester's [`https://github.com/pusher/pusher-ruby-client`](pusher-ruby-client).  More examples there.  
+Note that you need to
+
+    gem install pusher-client
+
+...to get this to work.
