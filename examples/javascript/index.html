@@ -1,0 +1,33 @@
+<html>
+<head>
+  <title>Hackathon Streaming RBS FX Rates</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+  <script src="http://js.pusher.com/2.2/pusher.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var pusher = new Pusher('ec68fe8cadf14e52b659');
+    var channel = pusher.subscribe('fxRateStream');
+    channel.bind('fxEvent', function(e) {
+      document.getElementById('rate').innerHTML = JSON.stringify(e, null, ' ');
+    });
+  </script>
+
+</head>
+<body>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">
+          <span class="glyphicon glyphicon-align-right"></span> FXMP Stream
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <pre id='rate' style="font-size:10px"></pre>
+</body>
+</html>
