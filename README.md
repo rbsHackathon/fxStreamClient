@@ -10,6 +10,7 @@ Clients available right now:
 * html/javascript
 * ruby
 * java
+* clojure
 
 ### Message format
 
@@ -40,3 +41,7 @@ Note that you need to
 ### Java Client
 
 You'll need maven to build the sample code. It uses the [offical pusher.com java client](https://github.com/pusher/pusher-java-client) and [Gson](https://code.google.com/p/google-gson/) for json parsing.
+
+### Clojure Client
+
+An example Clojure client that simply prints out the data on receipt of an event. This code uses the same official java pusher client as the java example above.
