@@ -9,6 +9,7 @@ Clients available right now:
 
 * html/javascript
 * ruby
+* java
 
 ### Message format
 
@@ -17,16 +18,12 @@ Clients available right now:
         "sell": "AED",
         "buy": "DKK",
         "rate": 1.5920476605,
-        "valueDate": "2014-11-10T05:00:00.000Z",
-        "rateQuoteId": 13952852727,
         "expiryDateTime": "2014-11-05T12:18:59.000Z"
       },
       {
         "sell": "USD",
         "buy": "JPY",
         "rate": 112.51339605,
-        "valueDate": "2014-11-07T05:00:00.000Z",
-        "rateQuoteId": 13952852728,
         "expiryDateTime": "2014-11-05T12:18:59.000Z"
       }
     ]
@@ -39,3 +36,7 @@ Note that you need to
     gem install pusher-client
 
 ...to get this to work.
+
+### Java Client
+
+You'll need maven to build the sample code. It uses the [offical pusher.com java client](https://github.com/pusher/pusher-java-client) and [Gson](https://code.google.com/p/google-gson/) for json parsing.
