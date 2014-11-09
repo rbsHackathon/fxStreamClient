@@ -45,3 +45,7 @@ You'll need maven to build the sample code. It uses the [offical pusher.com java
 ### Clojure Client
 
 An example Clojure client that simply prints out the data on receipt of an event. This code uses the same official java pusher client as the java example above.
+
+### Python Client
+
+An example Python client that parses the data to a python objct. This code uses the client library from Erik Kulyk. Instructions for build and use provided in the respective directory.
