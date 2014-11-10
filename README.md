@@ -1,6 +1,6 @@
 # fxStream
 
-## Streaming RBS FX Rates for the Deloitte GoneHacking Hackathon
+## Streaming RBS FX Rates for the Deloitte [GoneHacking](gonehacking.com) Hackathon
 
 
 Here we have example code to hook up to streaming FX rates from RBS via [`pusher.com`](http://pusher.com).
@@ -11,23 +11,32 @@ Clients available right now:
 * ruby
 * java
 * clojure
+* python
 
 ### Message format
 
-    [
-      {
-        "sell": "AED",
-        "buy": "DKK",
-        "rate": 1.5920476605,
-        "expiryDateTime": "2014-11-05T12:18:59.000Z"
-      },
-      {
-        "sell": "USD",
-        "buy": "JPY",
-        "rate": 112.51339605,
-        "expiryDateTime": "2014-11-05T12:18:59.000Z"
-      }
-    ]
+An example snippet from the messages received is as follows:
+
+  {
+      "expiryDateTime": "2014-11-10T15:53:26.000Z",
+      "fx": {
+          "EUR/CNY": {
+              "buy": "7.5433",
+              "sell": "7.7791"
+          },
+          "EUR/USD": {
+              "buy": "1.2255",
+              "sell": "1.2633"
+          }
+          // ...
+     }
+  }
+
+The `fx` property is a map of curency pairs to rate quotes. Each pair is defined as **base**/**quote**. The rate quote field definitions are as follows:
+
+**buy:** the amount of the **quote** currency received by the client in exchange for one unit of the **base** currency.
+
+**sell:** the amount of the **quote** currency given by the client in exchange for one unit of the **base** currency.
 
 ### Ruby Client
 

@@ -12,7 +12,7 @@
     var pusher = new Pusher('ec68fe8cadf14e52b659');
     var channel = pusher.subscribe('fxRateStream');
     channel.bind('fxEvent', function(e) {
-      document.getElementById('rate').innerHTML = JSON.stringify(e, null, ' ');
+      document.getElementById('rate').innerText = JSON.stringify(e, null, ' ');
     });
   </script>
 

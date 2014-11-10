@@ -13,14 +13,16 @@ global pusher
 def channel_callback(data):
     print "----------------------------------------------"
     decoded = json.loads(data)
-    for quote in decoded: 
-        print "%s/%s:%.5f" % (quote['buy'], quote['sell'], quote['rate'])
+    for quoteKey in decoded['fx']:
+        quote = decoded['fx'][quoteKey]
+        # print (json.dumps(quote, indent=1))
+        print "%s buy %.5f sell %.5f" % (quoteKey, quote['buy'], quote['sell'])
 
 def connect_handler(data):
     print "connected"
-    channel = pusher.subscribe("fxRateStream")
-    channel.bind('fxEvent', channel_callback)
-    
+    channel = pusher.subscribe("fxRateStream.dev")
+    channel.bind('fxEvent.dev', channel_callback)
+
 if __name__ == '__main__':
     logging.basicConfig()
     print "starting up"

@@ -1,642 +1,185 @@
-[
- {
-  "sell": "CAD",
-  "buy": "HKD",
-  "rate": 6.7032653,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707185,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "BRL",
-  "buy": "HKD",
-  "rate": 3.0585803,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707186,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "HKD",
-  "rate": 0.1244532,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707187,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "HKD",
-  "rate": 0.1700196,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707188,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "BRL",
-  "buy": "CAD",
-  "rate": 0.4493798,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707189,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "CAD",
-  "rate": 0.0182727,
-  "valueDate": "2014-11-12T00:00:00.000Z",
-  "rateQuoteId": 13953707190,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "CAD",
-  "rate": 0.0249809,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707191,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "INR",
-  "rate": 1.3564139,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707192,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "BRL",
-  "rate": 0.0214169,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707193,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "CAD",
-  "rate": 0.0097804,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707194,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "CNY",
-  "rate": 0.052916,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707195,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "HKD",
-  "rate": 0.0665613,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707196,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "INR",
-  "rate": 0.5283316,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707197,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "RUB",
-  "rate": 0.3852944,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707198,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CNY",
-  "buy": "CAD",
-  "rate": 0.1824313,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707199,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CNY",
-  "buy": "HKD",
-  "rate": 1.2409758,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707200,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "BRL",
-  "rate": 0.3169891,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707201,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "CAD",
-  "rate": 0.1447038,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707202,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "INR",
-  "rate": 7.7887904,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707203,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "RUB",
-  "rate": 5.7018634,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707204,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "EUR",
-  "rate": 0.1017557,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707205,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "EUR",
-  "rate": 0.0098899,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707206,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "EUR",
-  "rate": 0.0175536,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707207,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "EUR",
-  "rate": 0.0128352,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707208,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "BRL",
-  "rate": 3.9243407,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707209,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "CAD",
-  "rate": 1.7912149,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707210,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "BRL",
-  "rate": 2.1568655,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707211,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "INR",
-  "rate": 53.0813894,
-  "valueDate": "2014-11-12T00:00:00.000Z",
-  "rateQuoteId": 13953707212,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "RUB",
-  "rate": 38.7896929,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707213,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "RUB",
-  "rate": 0.7136096,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707214,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "BRL",
-  "rate": 2.4569117,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707215,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "CNY",
-  "rate": 6.0632783,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707216,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "CAD",
-  "rate": 1.1218636,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707217,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "EUR",
-  "rate": 0.7888674,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707218,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "GBP",
-  "rate": 0.6166314,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707219,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "HKD",
-  "rate": 7.6358121,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707220,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "INR",
-  "rate": 60.5313225,
-  "valueDate": "2014-11-12T00:00:00.000Z",
-  "rateQuoteId": 13953707221,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "JPY",
-  "rate": 112.9941005,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707222,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "USD",
-  "buy": "RUB",
-  "rate": 44.1888505,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707223,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "BRL",
-  "buy": "USD",
-  "rate": 0.394611,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707224,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "USD",
-  "rate": 0.8646966,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707225,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CNY",
-  "buy": "USD",
-  "rate": 0.1600115,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707226,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "USD",
-  "rate": 1.2299236,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707227,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "USD",
-  "rate": 1.5734007,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707228,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "USD",
-  "rate": 0.127072,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707229,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "USD",
-  "rate": 0.0160268,
-  "valueDate": "2014-11-12T00:00:00.000Z",
-  "rateQuoteId": 13953707230,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "USD",
-  "rate": 0.0085867,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707231,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "USD",
-  "rate": 0.0219371,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707232,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "GBP",
-  "rate": 0.7699249,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707233,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "CAD",
-  "rate": 1.4000122,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707234,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "CNY",
-  "rate": 7.5680406,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707235,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "HKD",
-  "rate": 9.5340034,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707236,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "BRL",
-  "rate": 3.0676427,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707237,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "INR",
-  "rate": 75.5622005,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707238,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "JPY",
-  "rate": 98.091279,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707239,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "EUR",
-  "buy": "RUB",
-  "rate": 55.1545256,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707240,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "EUR",
-  "rate": 0.6925296,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707241,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CNY",
-  "buy": "EUR",
-  "rate": 0.128155,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707242,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "BRL",
-  "buy": "EUR",
-  "rate": 0.316004,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707243,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "EUR",
-  "rate": 1.2600661,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707244,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "HKD",
-  "rate": 12.1964951,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707245,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "CNY",
-  "rate": 9.6766387,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707246,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "INR",
-  "rate": 96.6117339,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707247,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "RUB",
-  "rate": 70.5842503,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707248,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "GBP",
-  "buy": "JPY",
-  "rate": 180.4828311,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707249,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CNY",
-  "buy": "GBP",
-  "rate": 0.1002781,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707250,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "GBP",
-  "rate": 0.541285,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707251,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "BRL",
-  "buy": "GBP",
-  "rate": 0.246952,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707252,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "GBP",
-  "rate": 0.0795428,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707253,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "GBP",
-  "rate": 0.0100377,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707254,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "JPY",
-  "buy": "GBP",
-  "rate": 0.0053751,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707255,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "GBP",
-  "rate": 0.0137316,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707256,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CNY",
-  "buy": "JPY",
-  "rate": 18.3317805,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707257,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "JPY",
-  "rate": 99.1048955,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707258,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "BRL",
-  "buy": "JPY",
-  "rate": 45.2630475,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707259,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "JPY",
-  "rate": 14.5762774,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707260,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "INR",
-  "buy": "JPY",
-  "rate": 1.8351482,
-  "valueDate": "2014-11-11T00:00:00.000Z",
-  "rateQuoteId": 13953707261,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "RUB",
-  "buy": "JPY",
-  "rate": 2.5158177,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707262,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "CAD",
-  "buy": "CNY",
-  "rate": 5.3169059,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707263,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- },
- {
-  "sell": "HKD",
-  "buy": "CNY",
-  "rate": 0.7817554,
-  "valueDate": "2014-11-10T00:00:00.000Z",
-  "rateQuoteId": 13953707264,
-  "expiryDateTime": "2014-11-05T21:31:16.000Z"
- }
-]
+{
+  "expiryDateTime": "2014-11-10T15:53:26.000Z",
+  "fx": {
+    "BRL/CNY": {
+      "buy": "2.3675",
+      "sell": "2.4415"
+    },
+    "BRL/HKD": {
+      "buy": "3.0586",
+      "sell": "3.1557"
+    },
+    "BRL/INR": {
+      "buy": "23.740",
+      "sell": "24.492"
+    },
+    "BRL/JPY": {
+      "buy": "45.263",
+      "sell": "46.699"
+    },
+    "BRL/RUB": {
+      "buy": "17.963",
+      "sell": "18.539"
+    },
+    "CAD/BRL": {
+      "buy": "2.1553",
+      "sell": "2.2233"
+    },
+    "CAD/CNY": {
+      "buy": "5.3529",
+      "sell": "5.5203"
+    },
+    "CAD/HKD": {
+      "buy": "6.7446",
+      "sell": "6.9537"
+    },
+    "CAD/INR": {
+      "buy": "53.439",
+      "sell": "55.113"
+    },
+    "CAD/JPY": {
+      "buy": "99.705",
+      "sell": "102.82"
+    },
+    "CAD/RUB": {
+      "buy": "39.706",
+      "sell": "40.968"
+    },
+    "CNY/HKD": {
+      "buy": "1.2410",
+      "sell": "1.2792"
+    },
+    "CNY/INR": {
+      "buy": "9.8751",
+      "sell": "10.181"
+    },
+    "CNY/JPY": {
+      "buy": "18.342",
+      "sell": "18.914"
+    },
+    "CNY/RUB": {
+      "buy": "7.4713",
+      "sell": "7.7083"
+    },
+    "EUR/BRL": {
+      "buy": "3.0520",
+      "sell": "3.1488"
+    },
+    "EUR/CAD": {
+      "buy": "1.3877",
+      "sell": "1.4310"
+    },
+    "EUR/CNY": {
+      "buy": "7.5433",
+      "sell": "7.7791"
+    },
+    "EUR/HKD": {
+      "buy": "9.5047",
+      "sell": "9.7981"
+    },
+    "EUR/INR": {
+      "buy": "75.307",
+      "sell": "77.672"
+    },
+    "EUR/JPY": {
+      "buy": "98.091",
+      "sell": "101.11"
+    },
+    "EUR/RUB": {
+      "buy": "55.947",
+      "sell": "57.713"
+    },
+    "EUR/USD": {
+      "buy": "1.2255",
+      "sell": "1.2633"
+    },
+    "GBP/BRL": {
+      "buy": "3.9064",
+      "sell": "4.0301"
+    },
+    "GBP/CAD": {
+      "buy": "1.7707",
+      "sell": "1.8255"
+    },
+    "GBP/CNY": {
+      "buy": "9.6243",
+      "sell": "9.9235"
+    },
+    "GBP/EUR": {
+      "buy": "1.2566",
+      "sell": "1.2953"
+    },
+    "GBP/HKD": {
+      "buy": "12.136",
+      "sell": "12.511"
+    },
+    "GBP/INR": {
+      "buy": "96.087",
+      "sell": "99.138"
+    },
+    "GBP/JPY": {
+      "buy": "179.28",
+      "sell": "184.81"
+    },
+    "GBP/RUB": {
+      "buy": "71.377",
+      "sell": "73.617"
+    },
+    "GBP/USD": {
+      "buy": "1.5635",
+      "sell": "1.6117"
+    },
+    "HKD/INR": {
+      "buy": "7.8046",
+      "sell": "8.0460"
+    },
+    "HKD/JPY": {
+      "buy": "14.562",
+      "sell": "15.011"
+    },
+    "HKD/RUB": {
+      "buy": "5.7989",
+      "sell": "5.9822"
+    },
+    "INR/JPY": {
+      "buy": "1.8371",
+      "sell": "1.8946"
+    },
+    "RUB/INR": {
+      "buy": "1.3249",
+      "sell": "1.3667"
+    },
+    "RUB/JPY": {
+      "buy": "2.4711",
+      "sell": "2.5499"
+    },
+    "USD/BRL": {
+      "buy": "2.5198",
+      "sell": "2.5984"
+    },
+    "USD/CAD": {
+      "buy": "1.1154",
+      "sell": "1.1499"
+    },
+    "USD/CNY": {
+      "buy": "6.0633",
+      "sell": "6.2496"
+    },
+    "USD/HKD": {
+      "buy": "7.6398",
+      "sell": "7.8737"
+    },
+    "USD/INR": {
+      "buy": "60.531",
+      "sell": "62.395"
+    },
+    "USD/JPY": {
+      "buy": "112.94",
+      "sell": "116.42"
+    },
+    "USD/RUB": {
+      "buy": "44.964",
+      "sell": "46.376"
+    }
+  }
+}
