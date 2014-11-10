@@ -15,7 +15,6 @@ def channel_callback(data):
     decoded = json.loads(data)
     for quoteKey in decoded['fx']:
         quote = decoded['fx'][quoteKey]
-        # print (json.dumps(quote, indent=1))
         print "%s buy %.5f sell %.5f" % (quoteKey, quote['buy'], quote['sell'])
 
 def connect_handler(data):
