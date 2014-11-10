@@ -18,10 +18,8 @@ public class ExampleClient {
   private static final String COMMA = ",";
   private static final String ISO_DATE_FORMAT = "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'";
   private static final String API_KEY = "ec68fe8cadf14e52b659";
-//  private static final String EVENT_NAME = "fxEvent";
-//  private static final String CHANNEL_NAME = "fxRateStream";
-  private static final String EVENT_NAME = "fxEvent.dev";
-  private static final String CHANNEL_NAME = "fxRateStream.dev";
+  private static final String EVENT_NAME = "fxEvent";
+  private static final String CHANNEL_NAME = "fxRateStream";
   private static final Gson GSON = new GsonBuilder().setDateFormat(ISO_DATE_FORMAT).create();
 
   public static void main(String[] args) {
