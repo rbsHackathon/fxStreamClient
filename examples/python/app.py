@@ -19,8 +19,8 @@ def channel_callback(data):
 
 def connect_handler(data):
     print "connected"
-    channel = pusher.subscribe("fxRateStream.dev")
-    channel.bind('fxEvent.dev', channel_callback)
+    channel = pusher.subscribe("fxRateStream")
+    channel.bind('fxEvent', channel_callback)
 
 if __name__ == '__main__':
     logging.basicConfig()
