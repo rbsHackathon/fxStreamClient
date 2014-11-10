@@ -17,6 +17,7 @@ Clients available right now:
 
 An example snippet from the messages received is as follows:
 
+```
   {
       "expiryDateTime": "2014-11-10T15:53:26.000Z",
       "fx": {
@@ -31,6 +32,7 @@ An example snippet from the messages received is as follows:
           // ...
      }
   }
+```
 
 The `fx` property is a map of curency pairs to rate quotes. Each pair is defined as **base**/**quote**. The rate quote field definitions are as follows:
 
