@@ -12,13 +12,6 @@ Clients available at present:
 * [clojure](examples/clojure)
 * [python](examples/python)
 
-### Powered By
-
-<a href="http://pusher.com"><img src="./assets/pusher.png" alt="pusher" width="146" height="63"></a>
-
-<a href="http://vertx.io"><img src="./assets/vertx.png" alt="vertx" width="104" height="31" ></a>
-
-
 ### Instructions
 
 Clone this repo and run an example. 
@@ -72,3 +65,9 @@ An example Clojure client that simply prints out the data on receipt of an event
 ### Python Client
 
 An example Python client that parses the data to a python objct. This code uses the client library from Erik Kulyk. Instructions for build and use provided in the respective directory.
+
+### Powered By
+
+<a href="http://pusher.com"><img src="./assets/pusher.png" alt="pusher" width="146" height="63"></a>
+
+<a href="http://vertx.io"><img src="./assets/vertx.png" alt="vertx" width="104" height="31" ></a>
