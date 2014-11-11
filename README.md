@@ -2,7 +2,7 @@
 
 ## Streaming RBS FX Rates for the Deloitte [GoneHacking](http://gonehacking.com) Hackathon
 
-The RBS team have provided example code to hook up to a streaming of FX rates from RBS via [`pusher.com`](http://pusher.com).
+We have provided example code to hook up to a stream of FX rates from RBS via [`pusher.com`](http://pusher.com).
 
 Clients available at present:
 
