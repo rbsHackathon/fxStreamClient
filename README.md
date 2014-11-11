@@ -14,9 +14,10 @@ Clients available at present:
 
 ### Powered By
 
-* [Pusher](http://pusher.com)
+<a href="http://pusher.com"><img src="./assets/pusher.png" alt="pusher" width="146" height="63"></a>
 
-* [Vertx](http://vertx.io)
+<a href="http://vertx.io"><img src="./assets/vertx.png" alt="vertx" width="156" height="47" ></a>
+
 
 ### Instructions
 
