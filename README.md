@@ -4,7 +4,7 @@
 
 We're providing a stream of FX rates from RBS via [`pusher.com`](http://pusher.com). This repo has a set of client examples to connect to this stream.
 
-Thsi will provide access to our award-winning multi-currency pricing service – FX Micropay. This will enable you to receive highly competitive FX rates quotes. This will provide FX pricing data but should not be seen as a market data provider but the ability to price your domestic currency at a guaranteed rate in a foreign currency. Our team will be using the service for their own hack.  The service will be ‘read-only’ during the hack.
+This will provide access to our award-winning multi-currency pricing service – FX Micropay. This will enable you to receive highly competitive FX rates quotes. This will provide FX pricing data but should not be seen as a market data provider but the ability to price your domestic currency at a guaranteed rate in a foreign currency. Our team will be using the service for their own hack.  The service will be ‘read-only’ during the hack.
 
 More information on the services FX Micropay can provide can be found on the [RBS FXMP website](https://mibevents.rbs.com/content/dam/documents/rbsm/rbsm-com/fx/FX_micropay_factsheet.pdf)
 
