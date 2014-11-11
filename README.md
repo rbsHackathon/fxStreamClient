@@ -16,7 +16,7 @@ Clients available at present:
 
 <a href="http://pusher.com"><img src="./assets/pusher.png" alt="pusher" width="146" height="63"></a>
 
-<a href="http://vertx.io"><img src="./assets/vertx.png" alt="vertx" width="156" height="47" ></a>
+<a href="http://vertx.io"><img src="./assets/vertx.png" alt="vertx" width="104" height="31" ></a>
 
 
 ### Instructions
