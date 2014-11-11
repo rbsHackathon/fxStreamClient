@@ -1,6 +1,6 @@
 # fxStream
 
-## Streaming RBS FX Rates for the Deloitte [GoneHacking](gonehacking.com) Hackathon
+## Streaming RBS FX Rates for the Deloitte [GoneHacking](http://gonehacking.com) Hackathon
 
 
 Here we have example code to hook up to streaming FX rates from RBS via [`pusher.com`](http://pusher.com).
