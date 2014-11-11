@@ -6,11 +6,11 @@ We're providing a stream of FX rates from RBS via [`pusher.com`](http://pusher.c
 
 Clients available at present:
 
-* html/javascript
-* ruby
-* java
-* clojure
-* python
+* [html/javascript](examples/javascript)
+* [ruby](examples/ruby)
+* [java](examples/java)
+* [clojure](examples/clojure)
+* [python](examples/python)
 
 ### Powered By
 
